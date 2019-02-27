@@ -27,3 +27,10 @@ p {
     margin-left: 400;
 }
 
+ul {
+    list-style: none;
+    color: #F26419;
+    padding: 0;
+    text-align: justify;
+}
+
